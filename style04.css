@@ -1,0 +1,68 @@
+body {	background: url("pro4_background.jpg") no-repeat center center fixed;
+		/* The image is from http://www.customerintelligence360.com */
+		background-color: #000000;
+		background-size: cover;}
+h1{		opacity: .85;
+		color: #ffffff;
+		text-align: center;
+		font-weight: bold;
+		font-family: "Arial Black", Gadget, sans-serif;
+		font-size: 46pt;}
+h2{		color: #ffffff;
+		text-align: center;
+		margin-left: auto;
+		margin-right: auto;
+		font-family: "Arial Black", Gadget, sans-serif;}
+.customer_form{	
+		border: 2px solid #ffffff;
+		margin: 10px 140px 45px 140px;
+		padding: 30px 0px 30px 0px; 
+		border-radius: 25px;
+		background-color: #000000;
+		opacity: .80;
+		color: #ffffff;
+		text-align: center;
+		font-weight: bold;
+		font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;}
+label{    margin-right: 25px;
+		font-size: 14pt;
+		font-family: "Arial Black", Gadget, sans-serif;}
+input[type="submit"]{
+		font-size: 14pt;
+		font-family: "Arial Black", Gadget, sans-serif;
+		background: #778899;
+		color: #ffffff;
+		cursor:pointer;}
+input[type="text"]{
+		cursor:pointer;
+		font-size: 14pt;}
+input, select{	
+		margin-left: 25px;
+		border-radius: 10px;
+		padding-left: 10px;
+		padding-right: 10px;}
+select{	cursor:pointer;
+		font-family: "Arial Black", Gadget, sans-serif;
+		font-size: 14pt;}
+.button{
+		display: block;
+		width: 100px;
+		height: 15px;
+		background-color: #778899;
+		padding: 10px;
+		text-align: right;
+		border-radius: 5px;
+		color: #ffffff;
+		font-weight: bold;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 50px;}
+a:link{	color: #000000;
+		text-decoration: none;}
+a:visited{
+		margin-left: 400px;}
+a:hover{
+		color: #000000;
+		padding-left: 5px;}
+a:active{
+		color: #000000;}
